@@ -5,10 +5,37 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/72f26d634625b534a9ce738a9cf7e774
+    guid: 72f26d634625b534a9ce738a9cf7e774
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 3a9eacd89a5dac34ea4d045a0957da0a
   - enabled: 1
     path: Assets/Scenes/level1.unity
     guid: 51c6fca11cdda32408d11ecfcb6140e2
   - enabled: 1
     path: Assets/Scenes/level2.unity
-    guid: 72f26d634625b534a9ce738a9cf7e774
+    guid: 3ba6c33d761c2a44ca341b6f70047e62
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 8e9b9232b87f7584da4867231749c3b4
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: 25e9d2b1a8e5e3747b376743493988b0
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: b2edad41bafd5a7489d0e9287b27140a
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: ed88120b60cdc454191301b3639bd72b
+  - enabled: 1
+    path: Assets/Scenes/level7.unity
+    guid: 62295db9c97d61b45a206cba108a229b
+  - enabled: 1
+    path: Assets/Scenes/level8.unity
+    guid: 9a7f1b98d02dfaa4987b2006a80516be
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 82a85b1da1ad26240a791d70d387baf9
   m_configObjects: {}
